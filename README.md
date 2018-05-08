@@ -11,3 +11,6 @@ CMakeの学習記録用リポジトリ
 
 ## if.cmake
 if文の書き方のサンプル．
+
+## foreach.cmake
+foreach文の書き方のサンプル
